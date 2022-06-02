@@ -1,0 +1,13 @@
+#main {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;margin: 30px 8px;padding: 15px;border-radius: 10px;background: #072138;color: #f8dec6;text-align: center;}
+ a {color: #0000ff;text-decoration: none;}
+    a:hover {color: #5fde06;}
+    a:visited {color: #af0000;}
+    figure {max-width: 100%;display: block;height: auto;margin: 0 auto;}
+    figcaption
+    #img-div
+    #img-caption {font-style: normal;}
+    h1 {text-align: center;margin: 0 auto;}
+    em {text-align: center;}
+    img {margin: 0 auto; display: block;max-width: 100%;height: auto;}
+    h3 {text-align: center;margin: 0 auto;}
+        p {text-align: left;}
